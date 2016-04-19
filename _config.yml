@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: gizemny@gmail.com
 copyright_name: Gizemist
 description: "Blog by Gizem"
-baseurl: ""
+baseurl: "/blog"
 url: "http://gizemist.com"
 twitter_username: gizemist
 github_username:  gizemny
