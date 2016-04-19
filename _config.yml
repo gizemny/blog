@@ -1,0 +1,21 @@
+# Site settings
+title: Gizemist
+header-img: img/home-bg.jpg
+email: gizemny@gmail.com
+copyright_name: Gizemist
+description: "Blog by Gizem"
+baseurl: ""
+url: "http://gizemist.com"
+twitter_username: gizemist
+github_username:  gizemny
+# facebook_username:  
+email_username:  gizemny@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
